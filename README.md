@@ -38,4 +38,4 @@ The `modules` directory contains all styles related to the site's various module
 ```
 
 ## `utilities`
-The `utilities` directory is used to contain all mixins, functions, variables, or other things that are SASS based and would be useful for you in other areas of your project.
+The `utilities` directory is used to contain all mixins, functions, variables, or other things that are SASS based and would be useful for you in other areas of your projects.
