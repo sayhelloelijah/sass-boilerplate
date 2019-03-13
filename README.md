@@ -1,6 +1,11 @@
-# sass-boilerplate
+# sass-boilerplate ![npm badge](https://img.shields.io/npm/v/@sayhelloelijah/sass-boilerplate.svg)
 
-A Sass Boilerplate directory structure that helps guide in a SMACSS influenced SASS architecture.
+A Sass Boilerplate directory structure that helps guide in a SMACSS influenced SASS architecture, with **no dependencies**
+
+## Installaton
+```bash
+npm i @sayhelloelijah/sass-boilerplate
+```
 
 ## `base`
 The `base` directory's purpose is to contain all default styles related to base elements (_body, p, a, input, etc..._) and browser resets.
