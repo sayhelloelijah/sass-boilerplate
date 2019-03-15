@@ -1,7 +1,7 @@
 {
     "name": "@sayhelloelijah/sass-boilerplate",
     "description": "A boilerplate for setting up a modularized sass structure. Dividing various elements by using the principles of SMACSS & BEM.",
-    "version": "1.1.1",
+    "version": "1.1.0",
     "main": "app.scss",
     "repository": {
         "type": "git",
