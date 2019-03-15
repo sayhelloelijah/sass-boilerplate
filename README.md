@@ -5,6 +5,7 @@ A Sass Boilerplate directory structure that helps guide in a SMACSS influenced S
 ## Installaton
 ```bash
 npm i @sayhelloelijah/sass-boilerplate
+mv {path_to_project}/node_modules/\@sayhelloelijah/sass-boilerplate {path_to_asset_director}/{rename_directory}
 ```
 
 ## `base`
