@@ -2,7 +2,7 @@
 
 A Sass Boilerplate directory structure that helps guide in a SMACSS influenced SASS architecture, with **no dependencies**
 
-## Installaton
+## Installation
 This command will install the folder structure directly into your project.
 ```bash
 mkdir sass && npx degit --force https://github.com/sayhelloelijah/sass-boilerplate.git
