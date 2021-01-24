@@ -3,9 +3,9 @@
 A Sass Boilerplate directory structure that helps guide in a SMACSS influenced SASS architecture, with **no dependencies**
 
 ## Installaton
+This command will install the folder structure directly into your project.
 ```bash
-npm i @sayhelloelijah/sass-boilerplate
-mv {path_to_project}/node_modules/\@sayhelloelijah/sass-boilerplate {path_to_asset_director}/{rename_directory}
+mkdir sass && npx degit --force https://github.com/sayhelloelijah/sass-boilerplate.git
 ```
 
 ## `base`
